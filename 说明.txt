@@ -1,0 +1,1 @@
+把解压后的两个文件放到unRAID的  /usr/local/emhttp 里，然后安装插件输入 https://127.0.0.1/urchs.682.plg 安装汉化插件
